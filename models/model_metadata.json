@@ -1,0 +1,41 @@
+{
+    "model_type": "RandomForestClassifier",
+    "n_features": 24,
+    "features": [
+        "Programming_Score",
+        "Data_Analysis_Score",
+        "Web_Development_Score",
+        "Database_Management_Score",
+        "Cloud_Computing_Score",
+        "Machine_Learning_Score",
+        "Cybersecurity_Score",
+        "Written_Communication_Score",
+        "Verbal_Communication_Score",
+        "Presentation_Skills_Score",
+        "Problem_Solving_Score",
+        "Analytical_Thinking_Score",
+        "Teamwork_Score",
+        "Leadership_Score",
+        "Digital_Literacy_Score",
+        "Overall_Technical_Score",
+        "Overall_Soft_Skills_Score",
+        "Skill_Gap_Index",
+        "Industry_Readiness_Score",
+        "Career_Fit_Score",
+        "Learning_Agility_Score",
+        "Tech_Skills_Avg",
+        "Soft_Skills_Avg",
+        "Skills_Balance"
+    ],
+    "training_history": {
+        "train_accuracy": 0.8705428571428572,
+        "val_accuracy": 0.3928,
+        "training_time": 1.464086,
+        "n_features": 24,
+        "n_samples": 35000
+    },
+    "timestamp": "2025-10-30T11:29:42.988661",
+    "nep_2020_compliant": true,
+    "bias_checked": true,
+    "explainable": true
+}
